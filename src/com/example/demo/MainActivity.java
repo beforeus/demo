@@ -14,4 +14,8 @@ public class MainActivity extends ActionBarActivity {
 	/*
 	 * test push code from eclipse
 	 */
+	
+	/**
+	 * test push and commit
+	 */
 }
