@@ -22,4 +22,8 @@ public class MainActivity extends ActionBarActivity {
 	/**
 	 * test push and commit again
 	 */
+	
+	/**
+	 * test pull
+	 */
 }
