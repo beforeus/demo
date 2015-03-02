@@ -18,4 +18,8 @@ public class MainActivity extends ActionBarActivity {
 	/**
 	 * test push and commit
 	 */
+	
+	/**
+	 * test push and commit again
+	 */
 }
