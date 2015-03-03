@@ -24,6 +24,6 @@ public class MainActivity extends ActionBarActivity {
 	 */
 	
 	/**
-	 * test pull
+	 * test pull and conflect
 	 */
 }
