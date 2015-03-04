@@ -11,4 +11,8 @@ public class test {
 	/**
 	 * test git staging again
 	 */
+	
+	/**
+	 * test merge
+	 */
 }
