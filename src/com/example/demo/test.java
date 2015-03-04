@@ -7,4 +7,8 @@ public class test {
 	/**
 	 * test Label Decorations.
 	 */
+	
+	/**
+	 * test git staging
+	 */
 }
